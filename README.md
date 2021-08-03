@@ -1,4 +1,4 @@
-# Automatic Sewage Cleaning System
+# Automatic Sewage Cleaning System for Subject: Mechanical and Systems Engineering
 
 In this project, the proposed concept is to replace the manual work in drainage cleaning by
 an automated system. Nowadays in all industries, the work takes place automatically this is

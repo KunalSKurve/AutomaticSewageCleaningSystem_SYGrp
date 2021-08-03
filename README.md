@@ -1,4 +1,4 @@
-# AutomaticSewageCleaningSystem
+# Automatic Sewage Cleaning System
 
 In this project, the proposed concept is to replace the manual work in drainage cleaning by
 an automated system. Nowadays in all industries, the work takes place automatically this is
